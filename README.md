@@ -26,7 +26,7 @@ This project is built for **learning, experimentation, and extension**—ideal f
 ## 🛠️ Tech Stack
 - **Language:** Python  
 - **Core Concepts:** AI, Automation, NLP  
-- **APIs / Libraries:** (add here if used)
+- **APIs / Libraries:** Gemini API Used
 
 ---
 
